@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 49 49"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.959184"
+     inkscape:cx="24.5"
+     inkscape:cy="24.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs5">
+    <style
+       id="style1">.cls-1{fill:url(#Безымянный_градиент_276);}.cls-2{fill:url(#Безымянный_градиент_276-2);}</style>
+    <linearGradient
+       id="Безымянный_градиент_276"
+       x1="25.69"
+       y1="25.69"
+       x2="48.91"
+       y2="48.91"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.01"
+         stop-color="#01e701"
+         id="stop1" />
+      <stop
+         offset="0.23"
+         stop-color="#04e205"
+         id="stop2" />
+      <stop
+         offset="0.5"
+         stop-color="#0cd212"
+         id="stop3" />
+      <stop
+         offset="0.8"
+         stop-color="#1ab927"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#26a438"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="Безымянный_градиент_276-2"
+       x1="7.24"
+       y1="7.24"
+       x2="34.63"
+       y2="34.63"
+       xlink:href="#Безымянный_градиент_276" />
+  </defs>
+  <g
+     id="Слой_2"
+     data-name="Слой 2"
+     style="fill:#ff2a2a">
+    <g
+       id="LogoBgMain"
+       style="fill:#ff2a2a">
+      <g
+         id="Part-2"
+         style="fill:#ff2a2a">
+        <g
+           id="Logo_Blsck_-_1"
+           data-name="Logo Blsck - 1"
+           style="fill:#ff2a2a">
+          <g
+             id="_Group_"
+             data-name="&lt;Group&gt;"
+             style="fill:#ff2a2a">
+            <rect
+               id="_Rectangle_"
+               data-name="&lt;Rectangle&gt;"
+               class="cls-1"
+               x="25.69"
+               y="25.69"
+               width="23.22"
+               height="23.22"
+               style="fill:#ff2a2a" />
+            <path
+               id="_Outline_"
+               data-name="&lt;Outline&gt;"
+               class="cls-2"
+               d="M20.26,36.23a12.35,12.35,0,1,1,16-16H49A24.7,24.7,0,1,0,20.26,49Z"
+               style="fill:#ff2a2a" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
